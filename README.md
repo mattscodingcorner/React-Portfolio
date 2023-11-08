@@ -1,6 +1,6 @@
 # React-Portfolio
 
-a portfolio made using react!
+a portfolio made using react! 
 
 ## Table of Contents
 
@@ -16,12 +16,11 @@ a portfolio made using react!
 
 to install project denpendencies run:
 
-
 npm i
 
 ## Usage
 
-access this link - 
+access this link - https://exquisite-souffle-34521a.netlify.app/
 
 ## License
 
